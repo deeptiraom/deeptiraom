@@ -1,7 +1,9 @@
 - 👋 Hi, I’m @deeptiraom
+- I’m a blockchain and web3 enthusiast
 - 👀 I’m interested in developing and working on Cloud and AI Technologies
-- 🌱 I’m currently learning Blockchain, Chaincode
-- 💞️ I’m looking to collaborate on Blockchain and Kubernetes
+- I have 16 years experience working in the software industry
+- 🌱 Have worked on mobile app for an Agri Fintech Leader in India - Ergos
+- 💞️ I’m looking to participate in Blockchain and or Cloud based projects
 - 📫 How to reach me maito:deeptiraom@gmail.com
 
 <!---
