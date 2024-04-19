@@ -1,10 +1,12 @@
-- 👋 Hi, I’m @deeptiraom
-- I’m a blockchain and web3 enthusiast
-- 👀 I’m interested in developing and working on Cloud and AI Technologies
-- I have 16 years experience working in the software industry
+- 👋 Hi, I’m Deepti Sanjeev
+- I have 15 years experience working in the software industry
+- I’m a blockchain and web3 enthusiast and looking for contributing to Blockchain
+- 👀 I’m interested in developing and working on leveraging Cloud and AI Technologies
 - 🌱 Have worked on mobile app for an Agri Fintech Leader in India - Ergos
-- 💞️ I’m looking to participate in Blockchain and or Cloud based projects
-- 📫 How to reach me maito:deeptiraom@gmail.com
+- Contributed to automation in 5G  RAN networks using ansible
+- Contributed to devOps on IBM Cloud Paks
+- Contributed to building websites for Clients in Legal and Travel Domains
+- 📫 How to reach me mailto:deeptiraom@gmail.com
 
 <!---
 deeptiraom/deeptiraom is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
